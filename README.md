@@ -24,3 +24,5 @@ Delete: Excluir registros do banco de dados.
 Antes de rodar o projeto, você precisará ter os seguintes softwares instalados:
 Node.js: Instalar Node.js
 Banco de Dados (PostgreSQL, MySQL ou outro compatível com TypeORM): Instalar PostgreSQL / Instalar MySQL
+
+## Como rodar o código
