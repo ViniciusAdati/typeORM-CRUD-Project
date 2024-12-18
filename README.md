@@ -9,7 +9,7 @@ Express.js: Framework para construir a API (se aplicável ao seu projeto).
 PostgreSQL / MySQL (ou outro banco de dados): Banco de dados usado para armazenar os dados.
 
 Este projeto inclui as seguintes funcionalidades:
-#Criação do Banco de Dados:
+Criação do Banco de Dados:
 Configuração e criação do banco de dados utilizando o TypeORM.
 Conexão com o Banco de Dados:
 Estabelecimento de conexão com o banco de dados (PostgreSQL / MySQL, etc.) através do TypeORM.
